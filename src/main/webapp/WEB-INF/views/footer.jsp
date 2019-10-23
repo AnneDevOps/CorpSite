@@ -15,6 +15,18 @@
                                 <li><a href="#"><i class="ti-facebook"></i></a></li>
                                 <li><a href="#"><i class="ti-dribbble"></i></a></li>
                                 <li><a href="#"><i class="ti-vimeo-alt"></i></a></li>
+                                <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
+                                <li><a href="#"><i class="ti-facebook"></i></a></li>
+                                <li><a href="#"><i class="ti-dribbble"></i></a></li>
+                                <li><a href="#"><i class="ti-vimeo-alt"></i></a></li>
+                                <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
+                                <li><a href="#"><i class="ti-facebook"></i></a></li>
+                                <li><a href="#"><i class="ti-dribbble"></i></a></li>
+                                <li><a href="#"><i class="ti-vimeo-alt"></i></a></li>
+                                <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
+                                <li><a href="#"><i class="ti-facebook"></i></a></li>
+                                <li><a href="#"><i class="ti-dribbble"></i></a></li>
+                                <li><a href="#"><i class="ti-vimeo-alt"></i></a></li>
                             </ul>
                         </div>
                     </div>
