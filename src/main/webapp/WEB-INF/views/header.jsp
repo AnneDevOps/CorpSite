@@ -44,7 +44,7 @@
                                             <a href="#">Cypress Park</a>
                                         </li>
                                         <li>
-                                            <a href="#">Top Secret Mountain</a>
+                                            <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
                                             <a href="#">Santa Clara</a>
