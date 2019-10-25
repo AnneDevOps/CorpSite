@@ -17,6 +17,14 @@
 									We belive in the power of teams.  We take care of our employees, have fitness rooms 
 									and casual dress, and we don't believe in walls.
 								</p>
+								<p class="text-center mb0">
+									Line 1
+									Line 2
+									Line 3
+									Line 4
+									Line 5
+									Line 6
+								</p>
 							</div>
 						</div>
 
