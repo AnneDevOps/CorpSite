@@ -33,7 +33,7 @@
                                     <a href="/">Home</a>
                                 </li>
                                 <li>
-                                    <a href="/about">About</a>
+                                    <a href="/About">About</a>
                                 </li>
                                 
                                 <li>
@@ -42,7 +42,7 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="#">Cypress Park</a>
+                                            <a href="#">Cypress Hill</a>
                                         </li>
                                         <li>
                                             <a href="#">Secret Mountain</a>
