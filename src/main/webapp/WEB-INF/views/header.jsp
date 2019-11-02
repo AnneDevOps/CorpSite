@@ -39,7 +39,7 @@
                                     <a href="/Madison">Madison123</a>
                                 </li>
                                 <li>
-                                    <a href="/Careers">Careers</a>
+                                    <a href="/Careers">Jobs</a>
                                 </li>
                                 <li>
                                     <a href="#">
