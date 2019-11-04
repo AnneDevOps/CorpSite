@@ -39,7 +39,7 @@
                                     <a href="/Madison">Madison123</a>
                                 </li>
                                 <li>
-                                    <a href="/Careers">Jobs</a>
+                                    <a href="/Careers">Careers</a>
                                 </li>
                                 <li>
                                     <a href="#">
@@ -47,7 +47,7 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="#">Cypress Hill</a>
+                                            <a href="#">Cypress Park</a>
                                         </li>
                                         <li>
                                             <a href="#">Secret Mountain</a>
