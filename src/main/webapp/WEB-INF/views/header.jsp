@@ -36,7 +36,7 @@
                                     <a href="/About">About</a>
                                 </li>
                                 <li>
-                                    <a href="/Madison">Friday!</a>
+                                    <a href="/Madison">Madison</a>
                                 </li>
                                 <li>
                                     <a href="/Careers">Careers</a>
