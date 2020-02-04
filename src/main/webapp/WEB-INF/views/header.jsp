@@ -43,7 +43,7 @@
                                     <a href="/Fail2">Fail2</a>
                                 </li>
                                 <li>
-                                    <a href="/Careers">Careers</a>
+                                    <a href="/Careers">Jobs</a>
                                 </li>
                                 <li>
                                     <a href="#">
