@@ -30,18 +30,12 @@
                         <div class="module left">
                             <ul class="menu">
                                 <li>
-                                    <a href="/">Home1</a>
+                                    <a href="/">Home</a>
                                 </li>
                                 <li>
                                     <a href="/About">About1</a>
                                 </li>
-                                <li>
-                                    <a href="/Fail">Fail</a>
-                                </li>
-
-                                <li>
-                                    <a href="/Fail2">Fail2</a>
-                                </li>
+                             
                                 <li>
                                     <a href="/Careers">Careers</a>
                                 </li>
