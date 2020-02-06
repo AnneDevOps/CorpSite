@@ -33,7 +33,7 @@
                                     <a href="/">Home</a>
                                 </li>
                                 <li>
-                                    <a href="/About">About</a>
+                                    <a href="/About">About1</a>
                                 </li>
                              
                                 <li>
