@@ -33,11 +33,11 @@
                                     <a href="/">Home</a>
                                 </li>
                                 <li>
-                                    <a href="/About">About1</a>
+                                    <a href="/About">About</a>
                                 </li>
                              
                                 <li>
-                                    <a href="/Careers">Jobs</a>
+                                    <a href="/Careers">Careers</a>
                                 </li>
                                 <li>
                                     <a href="#">
