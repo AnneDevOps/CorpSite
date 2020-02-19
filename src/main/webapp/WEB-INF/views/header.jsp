@@ -37,7 +37,7 @@
                                 </li>
                              
                                 <li>
-                                    <a href="/Careers">Careers</a>
+                                    <a href="/Careers">Jobs</a>
                                 </li>
                                 <li>
                                     <a href="#">
@@ -45,7 +45,7 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="#">Cypress Hill</a>
+                                            <a href="#">Cypress Park</a>
                                         </li>
                                         <li>
                                             <a href="#">Secret Mountain</a>
