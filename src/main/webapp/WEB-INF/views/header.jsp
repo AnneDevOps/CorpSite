@@ -50,9 +50,7 @@
                                         <li>
                                             <a href="#">Secret Mountain</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Eindhoven</a>
-                                        </li>
+                                    
                                     </ul>
                                 </li>
                             </ul>
