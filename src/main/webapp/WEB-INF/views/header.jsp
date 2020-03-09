@@ -53,7 +53,7 @@
                                     <li>
                                             <a href="#">Amsterdam</a>
                                         </li>
-                                        li>
+                                        <li>
                                             <a href="#">Tiel</a>
                                         </li>
                                     </ul>
