@@ -50,6 +50,9 @@
                                         <li>
                                             <a href="#">Secret Mountain</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Test location</a>
+                                        </li>
                                      </ul>
                                 </li>
                             </ul>
