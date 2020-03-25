@@ -45,10 +45,10 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="#">Cypress Hill</a>
+                                            <a href="#">Copenhagen</a>
                                         </li>
                                         <li>
-                                            <a href="#">Secret Mountain</a>
+                                            <a href="#">Gent</a>
                                         </li>
                                      </ul>
                                 </li>
