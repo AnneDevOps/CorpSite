@@ -45,7 +45,7 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="#">Copenhagen</a>
+                                            <a href="#">Cypress Hill</a>
                                         </li>
                                         <li>
                                             <a href="#">Gent</a>
