@@ -50,6 +50,9 @@
                                         <li>
                                             <a href="#">Gent</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Amsterdam</a>
+                                        </li>
                                      </ul>
                                 </li>
                             </ul>
